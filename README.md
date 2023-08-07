@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me:
-- Drifting Embers is a newbie to the programming world and is currently on the path of learing.
-- Currently he is trying to understand the Python.
+- Shahid Rashid is a newbie to the programming world and is currently on the path of learing.
+- He has some newbie understanding of Python and is looking to continue further in the future.
+- Currently he is trying to understand the Web Designing.
 - He is on his path to improvement and would stop at noting to achieve that goal.
 - So, along the way, he might stumble and fail, but he will get back up stronger than ever.
 - Please support him on his journey.
