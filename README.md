@@ -10,9 +10,9 @@
 
 ###
 
--<p align="left">✨ I am newly Initiated Programmer and am currently still learning.</p>
--<p>📚 I'm currently learning Full Stack Web Development and Python</p>
--<p>🎯 Goals: I strive to better my abilities, and hone my skills. I am hoping for fun times ahead of me, and though it won't be easy i am willing to work harder and continue.</p>
+--<p align="left">✨ I am newly Initiated Programmer and am currently still learning.</p>
+--<p>📚 I'm currently learning Full Stack Web Development and Python</p>
+--<p>🎯 Goals: I strive to better my abilities, and hone my skills. I am hoping for fun times ahead of me, and though it won't be easy i am willing to work harder and continue.</p>
 
 ###
 
