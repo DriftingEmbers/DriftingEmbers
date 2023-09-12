@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shahid, and I'm a Web Developer, and Python Programer, from Kashmir, India</p>
+<p align="left">My name is Shahid, and I'm a Web Developer, and Python programmer</p>
 
 ###
 
