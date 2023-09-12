@@ -1,4 +1,4 @@
-<h1 align="left">Knoichiwa 🤗 Hope you are doing well</h1>
+<h1 align="left">Konnichiwa 🤗 Hope you are doing well</h1>
 
 ###
 
